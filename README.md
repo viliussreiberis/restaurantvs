@@ -1,4 +1,4 @@
 
 # Restaurant website by Vilius Sreiberis
 
-Best ui/ux pracitces with react.js
+Best ui/ux practices with react.js
